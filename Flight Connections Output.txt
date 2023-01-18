@@ -1,0 +1,195 @@
+﻿San Antonio --> A11 --> Ontario
+Austin --> A15 --> Savannah
+Cleveland --> A18 --> Pittsburgh
+West Palm Beach --> A18 --> Boston
+Chicago O’Hare --> A19 --> DCA
+Boise --> A19 --> Buffalo
+Miami --> A24 --> San Antonio
+Tucson --> A24 --> Providence
+LGA --> A26 --> Sarasota
+West Palm Beach --> A27 --> Dallas-Fort Worth
+Milwaukee --> A27 --> Minneapolis
+Dallas-Fort Worth --> A29 --> LGA
+Los Angeles --> A29 --> Tucson
+Boston --> A29 --> West Palm Beach
+Chicago O’Hare --> A29 --> West Palm Beach
+West Palm Beach --> A30 --> Pittsburgh
+Albuquerque --> A31 --> Memphis
+Austin --> A31 --> Denver
+Buffalo --> A31 --> Boston
+Los Angeles --> A33 --> Indianapolis
+Indianapolis --> A33 --> Salt Lake City
+DCA --> A33 --> Panama City (FL)
+Miami --> A5 --> DCA
+Cleveland --> B1 --> Boise
+Norfolk --> B10 --> West Palm Beach
+Minneapolis --> B10 --> Denver
+Boston --> B10 --> Indianapolis
+Miami --> B11 --> DCA
+Cleveland --> B12 --> Sarasota
+Chicago O’Hare --> B12 --> Houston Intercontinental
+Dallas-Fort Worth --> B12 --> Milwaukee
+Buffalo --> B12 --> Fort Lauderdale
+Houston Intercontinental --> B13 --> San Antonio
+Chicago O’Hare --> B13 --> Austin
+DCA --> B13 --> West Palm Beach
+Dallas-Fort Worth --> B13 --> Phoenix
+Boston --> B13 --> Grand Rapids
+Savannah --> B14 --> Grand Rapids
+Minneapolis --> B14 --> Miami
+Norfolk --> B14 --> Buffalo
+West Palm Beach --> B14 --> West Palm Beach
+San Antonio --> B14 --> Miami
+Indianapolis --> B16 --> Austin
+Savannah --> B16 --> Fort Lauderdale
+West Palm Beach --> B16 --> Memphis
+Miami --> B16 --> Chicago O’Hare
+LGA --> B18 --> West Palm Beach
+Fort Lauderdale --> B2 --> Fort Lauderdale
+Providence --> B2 --> Boston
+Memphis --> B21 --> Pittsburgh
+LGA --> B21 --> Norfolk
+Austin --> B21 --> Los Angeles
+Indianapolis --> B21 --> Dallas-Fort Worth
+Fort Lauderdale --> B21 --> Houston Intercontinental
+Dallas-Fort Worth --> B22 --> Memphis
+Milwaukee --> B22 --> Los Angeles
+Panama City (FL) --> B23 --> Albuquerque
+Minneapolis --> B23 --> Chicago O’Hare
+Pittsburgh --> B23 --> LGA
+Tucson --> B24 --> Indianapolis
+Cleveland --> B24 --> Grand Rapids
+Bozeman --> B24 --> Ontario
+Salt Lake City --> B24 --> Minneapolis
+West Palm Beach --> B25 --> LGA
+Ontario --> B26 --> Savannah
+Milwaukee --> B26 --> Savannah
+Savannah --> B26 --> LGA
+West Palm Beach --> B27 --> Los Angeles
+Norfolk --> B27 --> Pittsburgh
+Memphis --> B27 --> Miami
+Grand Rapids --> B27 --> Denver
+Houston Intercontinental --> B28 --> LGA
+LGA --> B29 --> LGA
+Pittsburgh --> B3 --> Cleveland
+Dallas-Fort Worth --> B3 --> Austin
+Chicago O’Hare --> B3 --> DCA
+Austin --> B3 --> Panama City (FL)
+Ontario --> B3 --> Las Vegas
+Albuquerque --> B3 --> Memphis
+Austin --> B31 --> Tucson
+West Palm Beach --> B31 --> Cleveland
+Sarasota --> B31 --> Chicago O’Hare
+Cleveland --> B31 --> Miami
+Indianapolis --> B31 --> Dallas-Fort Worth
+Los Angeles --> B32 --> Austin
+Denver --> B33 --> Miami
+Norfolk --> B33 --> Cleveland
+Dulles --> B36 --> West Palm Beach
+DCA --> B36 --> Chicago O’Hare
+DCA --> B36 --> Dulles
+Sarasota --> B4 --> Houston Intercontinental
+Memphis --> B4 --> Houston Intercontinental
+LGA --> B5 --> Albuquerque
+Boston --> B6 --> Los Angeles
+Houston Intercontinental --> B6 --> Minneapolis
+Austin --> B6 --> JFK
+Houston Intercontinental --> B6 --> Milwaukee
+Pittsburgh --> B7 --> Norfolk
+Boston --> B7 --> Indianapolis
+Savannah --> B9 --> San Antonio
+Indianapolis --> B9 --> Albuquerque
+San Antonio --> B9 --> San Antonio
+Albuquerque --> B9 --> Norfolk
+San Antonio --> E27 --> Montego Bay
+Memphis --> E29 --> Cancun
+Milwaukee --> E30 --> Punta Cana
+Montego Bay --> E30 --> Houston Intercontinental
+Miami --> E35 --> Montego Bay
+Punta Cana --> E35 --> Chicago O’Hare
+Kansas City --> E7 --> Punta Cana
+Punta Cana --> F10 --> Indianapolis
+Montego Bay --> F12 --> Sarasota
+Cancun --> F6 --> San Antonio
+Fort Lauderdale --> T2 --> LGA
+Miami --> T3 --> DCA
+LGA --> T3 --> West Palm Beach
+Minneapolis --> T3 --> Cleveland
+Los Angeles --> T4 --> Dallas-Fort Worth
+LGA --> T4 --> LGA
+West Palm Beach --> T5 --> Milwaukee
+DCA --> T5 --> Boston
+Memphis --> T6 --> Miami
+Panama City (FL) --> T6 --> Cleveland
+Denver --> T6 --> LGA
+Los Angeles --> T6 --> Sarasota
+LGA --> T7 --> West Palm Beach
+Dallas-Fort Worth --> T7 --> DCA
+127
+[Minneapolis A1 departure 07:09]
+[]
+[]
+[]
+[]
+[Miami A2 departure 11:08]
+[]
+[]
+[]
+[Los Angeles A28 departure 08:39]
+[]
+[LGA A3 departure 08:28]
+[]
+[Milwaukee A31 arrival 23:11]
+[]
+[LGA A4 departure 08:20]
+[]
+[Los Angeles A6 arrival 20:30]
+[]
+[]
+[Chicago O’Hare B11 arrival 19:49, Austin B11 departure 22:38]
+[Milwaukee B12 departure 18:28]
+[]
+[]
+[]
+[]
+[San Antonio B2 arrival 17:23]
+[]
+[Memphis B22 departure 08:07]
+[]
+[Pittsburgh B24 arrival 15:44, Kansas City B24 departure 18:44]
+[]
+[Chicago O’Hare B26 departure 07:58]
+[]
+[Miami B28 arrival 16:02, Dallas-Fort Worth B28 departure 19:05]
+[Los Angeles B29 departure 07:15, Miami B29 arrival 09:49, Boston B29 departure 14:35]
+[Houston Intercontinental B3 arrival 16:24]
+[Buffalo B31 departure 10:02]
+[Norfolk B32 departure 12:25, Norfolk B32 arrival 19:49, Savannah B32 departure 22:45]
+[]
+[Sarasota B36 arrival 19:51, Norfolk B36 departure 22:37]
+[Sarasota B4 arrival 07:23, Austin B4 departure 12:17]
+[]
+[]
+[]
+[Denver B9 arrival 23:33]
+[LGA C50 arrival 23:20]
+[Milwaukee D16 departure 10:01]
+[Grand Rapids E14 arrival 07:56]
+[Los Angeles E15 departure 21:00]
+[LGA E16 arrival 23:14]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[Grand Rapids T1 arrival 14:39]
+[]
+[]
+[]
+[Bozeman T5 departure 10:26]
+[Salt Lake City T6 departure 08:07]
+[]
+
